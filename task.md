@@ -171,3 +171,8 @@ json
 
 
 
+<img width="343" height="822" alt="изображение" src="https://github.com/user-attachments/assets/9988ce94-152b-455f-9343-05c7bd81717d" />
+
+<img width="464" height="912" alt="изображение" src="https://github.com/user-attachments/assets/45dbab0f-df37-4b90-a581-4363367b7d72" />
+
+
